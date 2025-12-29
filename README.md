@@ -1,7 +1,7 @@
 ## Hi👋, I'm Naveen G S
 
 # 💫 About Me:
-👋 Hi! I’m Naveena G S  <br>💻 Python & Django Full Stack Developer  <br>📊 Data Analytics Enthusiast  <br>🛠 Skilled in HTML, CSS, JavaScript, SQL, Pandas, NumPy  <br>🚀 I enjoy building web apps, exploring AI & learning new technologies  <br>
+<br>💻 Python & Django Full Stack Developer  <br>📊 Data Analytics Enthusiast  <br>🛠 Skilled in HTML, CSS, JavaScript, SQL, Pandas, NumPy  <br>🚀 I enjoy building web apps, exploring AI & learning new technologies  <br>
 
 
 ## 🌐 Socials:
